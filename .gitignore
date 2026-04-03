@@ -1,0 +1,4 @@
+.ipynb_checkpoints/ 
+*.ipynb_checkpoints 
+pittsburgh_independent_ranking_with_recency_score.csv 
+pittsburgh_restaurant_ranking_with_recency_score.csv 

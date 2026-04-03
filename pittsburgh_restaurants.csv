@@ -1,0 +1,377 @@
+name,rating,review_count,address,price_level,business_status,neighborhood
+Ritual House,4.5,809,"524 William Penn Pl, Pittsburgh, PA 15219, USA",2.0,OPERATIONAL,Downtown
+The Yard,4.3,1712,"100 Fifth Ave, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+The Eagle - Pittsburgh,4.4,1326,"737 Penn Ave, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Sienna Mercato,4.3,3089,"942 Penn Ave, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+The Rebel Room,4.2,110,"405 Wood St, Pittsburgh, PA 15222, USA",,OPERATIONAL,Downtown
+Proper Brick Oven & Tap Room,4.6,2221,"139 7th St, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+The Commoner,4.4,2008,"620 William Penn Pl, Pittsburgh, PA 15219, USA",3.0,OPERATIONAL,Downtown
+Meat & Potatoes,4.5,2085,"649 Penn Ave, Pittsburgh, PA 15222, USA",3.0,OPERATIONAL,Downtown
+The Warren Bar & Burrow,4.6,1058,"245 7th St, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Fig & Ash,4.7,897,"514 E Ohio St, Pittsburgh, PA 15212, USA",3.0,OPERATIONAL,Downtown
+Alta Via Market Square,4.0,223,"2, PPG Place, #150, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Bridges & Bourbon,4.4,895,"930 Penn Ave, Pittsburgh, PA 15222, USA",,OPERATIONAL,Downtown
+The Capital Grille,4.7,1874,"301 Fifth Ave, Pittsburgh, PA 15222, USA",4.0,OPERATIONAL,Downtown
+täkō,4.5,1627,"214 6th St, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Gaucho Parrilla Argentina,4.6,4299,"146 6th St, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Social House 7,4.0,1206,"123 7th St, Pittsburgh, PA 15222, USA",3.0,OPERATIONAL,Downtown
+fl.2,4.1,478,"510 Market St, Pittsburgh, PA 15222, USA",,OPERATIONAL,Downtown
+City Works (Market Square - Pittsburgh),4.6,8364,"2 PPG Place, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Con Alma,4.4,984,"613 Penn Ave, Pittsburgh, PA 15222, USA",,OPERATIONAL,Downtown
+Revel,4.2,1327,"242 Forbes Ave, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Barcelona Wine Bar,4.7,460,"922 Penn Ave, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Forbes Tavern,4.5,604,"310 Forbes Ave, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Bakersfield Penn Ave,4.5,2361,"940 Penn Ave, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Del Frisco's Double Eagle Steakhouse,4.5,620,"455 Fifth Ave, Pittsburgh, PA 15219, USA",4.0,OPERATIONAL,Downtown
+Café Momentum Pittsburgh,4.9,80,"268 Forbes Ave, Pittsburgh, PA 15222, USA",,OPERATIONAL,Downtown
+Talia,4.4,490,"611 William Penn Pl, Pittsburgh, PA 15219, USA",3.0,OPERATIONAL,Downtown
+Bigelow Grille Kitchen & Bar,4.0,358,"1 Bigelow Sq, Pittsburgh, PA 15219, USA",2.0,OPERATIONAL,Downtown
+gi-jin,4.6,406,"208 6th St, Pittsburgh, PA 15222, USA",,OPERATIONAL,Downtown
+Altius,4.6,1986,"1230 Grandview Ave, Pittsburgh, PA 15211, USA",4.0,OPERATIONAL,Downtown
+Pizzaiolo Primo Market Square,4.3,1012,"8 Market Square, Pittsburgh, PA 15222, USA",3.0,OPERATIONAL,Downtown
+New York halal taste,4.9,238,"961 Liberty Ave, Pittsburgh, PA 15222, USA",,OPERATIONAL,Downtown
+Braddock's Rebellion,4.2,359,"107 6th St, Pittsburgh, PA 15222, USA",3.0,OPERATIONAL,Downtown
+Yuzu Kitchen,4.4,1094,"409 Wood St, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Kaya,4.5,1960,"2000 Smallman St, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Eddie Merlot's,4.6,2781,"444 Liberty Ave, Pittsburgh, PA 15222, USA",4.0,OPERATIONAL,Downtown
+The Terrace Room,4.0,104,"530 William Penn Pl, Pittsburgh, PA 15219, USA",,OPERATIONAL,Downtown
+Vallozzi's Pittsburgh,4.3,602,"220 Fifth Ave, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Crafted North,4.0,106,"112 Washington Pl, Pittsburgh, PA 15219, USA",,OPERATIONAL,Downtown
+Morton's The Steakhouse,4.5,1121,"625 Liberty Ave Suite 180, Pittsburgh, PA 15222, USA",4.0,OPERATIONAL,Downtown
+Nicky's Thai Kitchen,4.3,2490,"903 Penn Ave, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+The Millhouse,4.2,20,"Inside Joinery Hotel, 453 Boulevard of the Allies, Pittsburgh, PA 15219, USA",,OPERATIONAL,Downtown
+Christian James Restaurant,3.8,104,"453 Boulevard of the Allies, Pittsburgh, PA 15219, USA",2.0,OPERATIONAL,Downtown
+Olive Or Twist,4.2,693,"140 6th St, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Union Grill Oakland,4.5,1807,"413 S Craig St, Pittsburgh, PA 15213, USA",2.0,OPERATIONAL,Downtown
+McCormick & Schmick's Seafood & Steaks,4.2,1268,"301 Fifth Ave, Pittsburgh, PA 15222, USA",3.0,OPERATIONAL,Downtown
+Christos Mediterranean Grille,4.4,689,"130 6th St, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+BALVANERA,4.6,402,"1660 Smallman St, Pittsburgh, PA 15222, USA",,OPERATIONAL,Downtown
+Fogo de Chão Brazilian Steakhouse,4.6,5519,"525 Smithfield St, Pittsburgh, PA 15222, USA",3.0,OPERATIONAL,Downtown
+Caribbean Fine Cuisine,4.7,323,"100 Fifth Ave #111, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Mitchell's Pub,4.4,482,"304 Ross St, Pittsburgh, PA 15219, USA",1.0,OPERATIONAL,Downtown
+Las Velas,4.3,1393,"21 Market Square, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Bar Marco,4.6,718,"2216 Penn Ave, Pittsburgh, PA 15222, USA",3.0,OPERATIONAL,Downtown
+Emerson's,4.2,137,"435 Market St 2nd Floor, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Redbeard's Sports Bar & Grill,4.2,1154,"144 6th St, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Eddie V's Prime Seafood,4.7,1999,"501 Grant St # 100, Pittsburgh, PA 15219, USA",4.0,OPERATIONAL,Downtown
+3 Rivers Restaurant and Lounge,4.0,95,"600 Commonwealth Pl, Pittsburgh, PA 15222, USA",,OPERATIONAL,Downtown
+Condado Tacos,4.4,4970,"971 Liberty Ave, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Downtown
+Okane Sushi/Omakase,4.8,78,"245 Fourth Ave, Pittsburgh, PA 15222, USA",,OPERATIONAL,Downtown
+Primanti Bros. Restaurant and Bar,4.3,4911,"2 Market Square, Pittsburgh, PA 15222, USA",1.0,OPERATIONAL,Downtown
+The Speckled Egg PGH,4.5,820,"501 Grant St, Pittsburgh, PA 15219, USA",2.0,OPERATIONAL,Downtown
+The Porch,4.1,2130,"221 Schenley Dr, Pittsburgh, PA 15213, USA",2.0,OPERATIONAL,Oakland
+Cork and Crust,4.5,21,"5130 Bigelow Blvd, Pittsburgh, PA 15213, USA",,OPERATIONAL,Oakland
+Butterjoint,4.5,817,"208 N Craig St, Pittsburgh, PA 15213, USA",3.0,OPERATIONAL,Oakland
+Nan Xiang Soup Dumplings - Pittsburgh,4.8,1189,"2773 Sidney St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,Oakland
+CAVA,4.4,445,"3619 Forbes Ave, Pittsburgh, PA 15213, USA",,OPERATIONAL,Oakland
+Capozoli's Trattoria Ristorante,4.9,72,"2516 E Carson St, Pittsburgh, PA 15203, USA",,OPERATIONAL,Oakland
+Spirits & Tales,3.9,220,"5130 Bigelow Blvd, Pittsburgh, PA 15213, USA",,OPERATIONAL,Oakland
+Piada Italian Street Food,4.4,2026,"3600 Forbes Ave, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+Stack'd Oakland,4.3,1747,"3716 Forbes Ave, Pittsburgh, PA 15213, USA",2.0,OPERATIONAL,Oakland
+Hofbräuhaus Pittsburgh,4.5,2245,"2705 S Water St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,Oakland
+Hemingway's Cafe,4.2,1124,"3911 Forbes Ave, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+The Abbey on Butler Street,4.3,2303,"4635 Butler St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Oakland
+The Colombian Spot,4.5,218,"University of Pittsburgh, 3533 Forbes Ave Floor 1, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,Oakland
+Ali Baba Restaurant,4.4,598,"404 S Craig St, Pittsburgh, PA 15213, USA",2.0,OPERATIONAL,Oakland
+Chick-n Grille,4.3,202,"121 Oakland Ave, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+Zarra's Restaurant,4.2,387,"3887 Bigelow Blvd, Pittsburgh, PA 15213, USA",2.0,OPERATIONAL,Oakland
+Melt'd,3.5,94,"3903 Forbes Ave, Pittsburgh, PA 15213, USA",2.0,OPERATIONAL,Oakland
+CHiKN,4.3,1004,"3712 Forbes Ave Unit 3, Pittsburgh, PA 15213, USA",2.0,OPERATIONAL,Oakland
+Primanti Bros. Restaurant and Bar,4.3,1934,"3803 Forbes Ave, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+The Hungry CowGirl Cocina,4.4,199,"451 Melwood Ave, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+Noodle House,4.4,567,"3531 Forbes Ave, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+Mario's Oakland Saloon,4.0,234,"116 Oakland Ave, Pittsburgh, PA 15213, USA",,OPERATIONAL,Oakland
+Viva Los Tacos,4.0,470,"3901 Forbes Ave, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+Roots Natural Kitchen,4.6,549,"3610 Forbes Ave, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+Yotea & Yoka Kitchen 友茶&友家厨房,4.5,234,"4615 Centre Ave, Pittsburgh, PA 15213, USA",2.0,OPERATIONAL,Oakland
+Solo 7 restaurant & hookah lounge,4.2,25,"416 Semple St, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+EGE Mediterranean,4.7,256,"190 N Craig St, Pittsburgh, PA 15213, USA",2.0,OPERATIONAL,Oakland
+The Library on Carson,4.3,680,"2302 E Carson St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,Oakland
+The Colombian Spot,4.5,1048,"2019 E Carson St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,Oakland
+Oishii Bento,4.5,761,"119 Oakland Ave, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+Smashed Waffles,4.5,235,"3501 Forbes Ave, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+Layne's Chicken Fingers- Pittsburgh,4.2,235,"3621 Forbes Ave, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+Raising Cane's Chicken Fingers,4.2,511,"3610 Fifth Ave, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+BAO (CMU),4.2,294,"400 S Craig St, Pittsburgh, PA 15213, USA",2.0,OPERATIONAL,Oakland
+Nadine's Restaurant,4.5,995,"19 S 27th St, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,Oakland
+Hunan Bar,4.3,522,"239 Atwood St, Pittsburgh, PA 15213, USA",2.0,OPERATIONAL,Oakland
+PF BBQ House - 匹夫小馆,4.4,140,"328 Atwood St, Pittsburgh, PA 15213, USA",2.0,OPERATIONAL,Oakland
+Ocha Thai Noodle Restaurant,4.2,272,"422 Semple St, Pittsburgh, PA 15213, USA",2.0,OPERATIONAL,Oakland
+Chick'n Bubbly,4.5,384,"117 Oakland Ave, Pittsburgh, PA 15213, USA",2.0,OPERATIONAL,Oakland
+El Jefe's Taqueria - Pittsburgh,4.7,1448,"3807 Forbes Ave, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+Golden Palace,4.0,475,"3607 Forbes Ave, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+K-Town Snack Bar,4.4,272,"210 Oakland Ave, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+Poulet Bleu,4.6,499,"3517 Butler St, Pittsburgh, PA 15201, USA",3.0,OPERATIONAL,Oakland
+Tamarind Flavor of India,4.3,1568,"257 N Craig St, Pittsburgh, PA 15213, USA",2.0,OPERATIONAL,Oakland
+Hello Bistro,4.0,678,"3605 Forbes Ave, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+Atarashi,4.3,601,"120 Oakland Ave, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+Mount Everest Sushi,4.1,112,"128 Oakland Ave, Pittsburgh, PA 15213, USA",,OPERATIONAL,Oakland
+Treats n Beans,4.3,356,"118 Meyran Ave, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+EatUnique,4.4,496,"305 S Craig St, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+Noodles and Company,4.2,611,"3805 Forbes Ave Suite 101, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+Dijlah Restaurant and Cafe,4.3,645,"416 Semple St, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+Eliza Hot Metal Bistro,4.3,135,"331 Technology Dr, Pittsburgh, PA 15219, USA",2.0,OPERATIONAL,Oakland
+The Cheesecake Factory,4.3,4136,"415 S 27th St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,Oakland
+K-Station BBQ,4.2,81,"221 Schenley Drive, Right by Carousel, Schenley Plaza, Kiosk#4, Pittsburgh, PA 15213, USA",1.0,OPERATIONAL,Oakland
+(شاورما عمر) Omar's Halal Grill,4.4,531,"4208 Forbes Ave, Pittsburgh, PA 15213, USA",2.0,OPERATIONAL,Oakland
+Lilith,4.8,274,"238 Spahr St, Pittsburgh, PA 15232, USA",,OPERATIONAL,Shadyside
+Palm Palm,4.4,363,"5996 Centre Ave, Pittsburgh, PA 15206, USA",,OPERATIONAL,Shadyside
+The Urban Tap - Shadyside,4.5,1966,"216 S Highland Ave, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+Shady Grove,4.3,1426,"5500 Walnut St, Pittsburgh, PA 15232, USA",2.0,OPERATIONAL,Shadyside
+Casbah,4.6,1358,"229 S Highland Ave, Pittsburgh, PA 15206, USA",3.0,OPERATIONAL,Shadyside
+Girasole,4.5,1154,"733 Copeland St, Pittsburgh, PA 15232, USA",2.0,OPERATIONAL,Shadyside
+Kyuramen x TBaar - Pittsburgh,4.7,703,"6204 Penn Ave, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+Soba,4.5,692,"5847 Ellsworth Ave, Pittsburgh, PA 15232, USA",3.0,OPERATIONAL,Shadyside
+The Fire Side Public House,4.3,1183,"6290 Broad St, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+Noodlehead,4.6,3540,"242 S Highland Ave #202, Pittsburgh, PA 15206, USA",1.0,OPERATIONAL,Shadyside
+Buenatarde Tequila y Mezcal,4.6,159,"5741 Ellsworth Ave, Pittsburgh, PA 15232, USA",2.0,OPERATIONAL,Shadyside
+Margaux,4.4,386,"5947 Penn Ave, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+City Kitchen,4.4,370,"145 Bakery Square Blvd, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+Pasha | Mediterranean Restaurant,4.4,772,"808 Ivy St, Pittsburgh, PA 15232, USA",2.0,OPERATIONAL,Shadyside
+täkō tôrtä,4.1,314,"122 Bakery Square Blvd, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+Goodness Gracious,4.9,51,"735 Copeland St, Pittsburgh, PA 15232, USA",,OPERATIONAL,Shadyside
+Paris 66 Bistro,4.4,689,"6018 Centre Ave, Pittsburgh, PA 15206, USA",3.0,OPERATIONAL,Shadyside
+Tocayo - Shadyside,4.6,830,"810 Ivy St, Pittsburgh, PA 15232, USA",1.0,OPERATIONAL,Shadyside
+honeygrow,4.4,916,"105 S Highland Ave, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+Elevate,4.2,20,"Located in City Kitchen, 145 Bakery Square Blvd, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+Muddy Waters Oyster Bar,4.5,1153,"130 S Highland Ave, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+Point Brugge Cafe,4.6,1346,"401 Hastings St, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+The Mediterranean Table,4.9,1091,"2108 Murray Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Shadyside
+Garbarino's,4.5,264,"5925 Baum Blvd, Pittsburgh, PA 15206, USA",,OPERATIONAL,Shadyside
+Pasha Breakfast & Lounge,5.0,3,"808 Ivy St fl 1, Pittsburgh, PA 15232, USA",2.0,OPERATIONAL,Shadyside
+Yoshino Asian Fusion,4.6,658,"5440 Walnut St, Pittsburgh, PA 15232, USA",2.0,OPERATIONAL,Shadyside
+Cappy's Cafe,4.4,350,"5431 Walnut St, Pittsburgh, PA 15232, USA",1.0,OPERATIONAL,Shadyside
+KuJiRa Sushi & Bar,4.4,662,"736 Bellefonte St, Pittsburgh, PA 15232, USA",2.0,OPERATIONAL,Shadyside
+Senyai Thai Kitchen,4.5,734,"5865 Ellsworth Ave, Pittsburgh, PA 15232, USA",2.0,OPERATIONAL,Shadyside
+Duo's,4.7,422,"5906 Penn Ave, Pittsburgh, PA 15206, USA",1.0,OPERATIONAL,Shadyside
+G's On Liberty,4.7,176,"5104 Liberty Ave, Pittsburgh, PA 15224, USA",,OPERATIONAL,Shadyside
+Mercurio's Shadyside,4.6,1347,"5523 Walnut St, Pittsburgh, PA 15232, USA",2.0,OPERATIONAL,Shadyside
+Mad Mex Shadyside,4.3,2109,"220 S Highland Ave, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+Choolaah,4.4,1653,"6114 Centre Ave, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+Lorelei,4.5,391,"124 S Highland Ave, Pittsburgh, PA 15206, USA",,OPERATIONAL,Shadyside
+Pino's,4.6,450,"6738 Reynolds St, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+Khalil's,4.5,288,"4757 Baum Blvd, Pittsburgh, PA 15213, USA",2.0,OPERATIONAL,Shadyside
+Surf Poke,5.0,93,"5400 Centre Ave, Pittsburgh, PA 15232, USA",,OPERATIONAL,Shadyside
+Fujiya Ramen,4.5,1057,"815 S Aiken Ave, Pittsburgh, PA 15232, USA",2.0,OPERATIONAL,Shadyside
+Cinnaholic,4.5,156,"6168 Centre Ave, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+Roots Natural Kitchen,4.3,218,"5231 Liberty Ave, Pittsburgh, PA 15224, USA",1.0,OPERATIONAL,Shadyside
+Kelly's Bar & Lounge,4.4,840,"6012 Centre Ave, Pittsburgh, PA 15206, USA",1.0,OPERATIONAL,Shadyside
+East End Brewing Company,4.8,492,"147 Julius St, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+Tessaro's American Bar & Hardwood Grill,4.5,1743,"4601 Liberty Ave, Pittsburgh, PA 15224, USA",2.0,OPERATIONAL,Shadyside
+Cafe Moulin,4.6,1563,"732 Filbert St, Pittsburgh, PA 15232, USA",2.0,OPERATIONAL,Shadyside
+Gordo’s Cafe & Cantina,4.7,22,"900 Gamma Dr, Pittsburgh, PA 15238, USA",,OPERATIONAL,Shadyside
+Condado Tacos,4.6,965,"6210 Penn Ave, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+Fish Nor Fowl,4.5,323,"5523 Penn Ave, Pittsburgh, PA 15206, USA",3.0,OPERATIONAL,Shadyside
+Wallace's Whiskey Room & Kitchen,3.9,121,"123 N Highland Ave, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+Square Cafe,4.5,1835,"134 S Highland Ave, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+Mario's East End Saloon,4.1,720,"5442 Walnut St, Pittsburgh, PA 15232, USA",2.0,OPERATIONAL,Shadyside
+Bird On The Run,4.3,968,"128 S Highland Ave, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+Somi Restaurant,3.7,39,"Located inside City Kitchen at, 145 Bakery Square Blvd, Pittsburgh, PA 15206, USA",2.0,OPERATIONAL,Shadyside
+Nak Won Garden,3.9,534,"5504 Centre Ave, Pittsburgh, PA 15232, USA",2.0,OPERATIONAL,Shadyside
+Pamela's | P&G Diner,4.5,1384,"5527 Walnut St #2, Pittsburgh, PA 15232, USA",1.0,OPERATIONAL,Shadyside
+Pleasure Bar,4.2,676,"4729 Liberty Ave, Pittsburgh, PA 15224, USA",2.0,OPERATIONAL,Shadyside
+Lawrence Hall,4.2,303,"4609 Butler St, Pittsburgh, PA 15201, USA",,OPERATIONAL,Lawrenceville
+The Forge,4.7,456,"3345 Penn Ave, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+Piccolo Forno,4.5,1119,"3801 Butler St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+Morcilla,4.7,990,"3519 Butler St, Pittsburgh, PA 15201, USA",3.0,OPERATIONAL,Lawrenceville
+The Nook,4.6,635,"3811 Butler St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+Mr Friez,4.7,156,"4213 Butler St, Pittsburgh, PA 15201, USA",,OPERATIONAL,Lawrenceville
+Butler Street Derby,4.0,95,"4203 Butler St, Pittsburgh, PA 15201, USA",,OPERATIONAL,Lawrenceville
+Istanbloom Mediterranean Restaurant,4.7,181,"4109 Penn Ave, Pittsburgh, PA 15224, USA",2.0,OPERATIONAL,Lawrenceville
+The Vandal,4.5,466,"4306 Butler St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+Industry Public House,4.2,1826,"4305 Butler St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+SKAI SUSHI PITTSBURGH,4.9,36,"4314 Butler St, Pittsburgh, PA 15201, USA",,OPERATIONAL,Lawrenceville
+LOADED at Lawrence Hall,4.6,9,"4609 Butler St, Pittsburgh, PA 15201, USA",,OPERATIONAL,Lawrenceville
+Mezcal Mexican Cantina,4.7,266,"4123 Butler St, Pittsburgh, PA 15201, USA",,OPERATIONAL,Lawrenceville
+Burghers Brewing Company Lawrenceville Tap House,4.2,692,"3601 Butler St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+Over Eden,3.9,384,"177 40th St, Pittsburgh, PA 15201, USA",,OPERATIONAL,Lawrenceville
+Pusadee's Garden,4.7,1215,"5319 Butler St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+Cuddy’s Soul Food@Lawrencehall,3.9,77,"4609 Butler St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+Walter's BBQ Southern Kitchen,4.1,1755,"4501 Butler St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+The Church Brew Works,4.3,5600,"3525 Liberty Ave, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+Driftwood Oven,4.7,1037,"3615 Butler St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+Scratch & Co.,4.6,770,"1720 Lowrie St, Pittsburgh, PA 15212, USA",2.0,OPERATIONAL,Lawrenceville
+Lot 17,4.5,971,"4617 Liberty Ave, Pittsburgh, PA 15224, USA",2.0,OPERATIONAL,Lawrenceville
+Senti Restaurant,4.6,453,"3473 Butler St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+Dive Bar & Grille (Lawrenceville),4.4,938,"5147 Butler St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+New Amsterdam,4.1,772,"4421 Butler St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+PGH Green & Grains Co,4.8,59,"4318 Butler St, Pittsburgh, PA 15201, USA",,OPERATIONAL,Lawrenceville
+Nanban,4.3,495,"4407 Butler St, Pittsburgh, PA 15201, USA",1.0,OPERATIONAL,Lawrenceville
+Round Corner Cantina,4.3,1066,"3720 Butler St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+Long Story Short,4.5,485,"3705 Butler St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+The PA Market,4.3,523,"108 19th St, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Lawrenceville
+Cilantro & Ajo Lawrenceville,4.7,109,"4017 Butler St, Pittsburgh, PA 15201, USA",1.0,OPERATIONAL,Lawrenceville
+Umami,4.6,1083,"202 38th St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+Camino Cocteleria & Cocina,4.7,103,"4428 Liberty Ave, Pittsburgh, PA 15224, USA",,OPERATIONAL,Lawrenceville
+Happenstance Cafe,4.9,183,"3832 Penn Ave, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+Titusz,5.0,1,"4129 Butler St, Pittsburgh, PA 15201, USA",,OPERATIONAL,Lawrenceville
+Cork Harbour Pub,4.7,171,"181 43rd St, Pittsburgh, PA 15201, USA",,OPERATIONAL,Lawrenceville
+Hop Farm Brewing Company,4.6,294,"5601 Butler St, Pittsburgh, PA 15201, USA",,OPERATIONAL,Lawrenceville
+Lolev Beer,4.8,180,"5247 Butler St, Pittsburgh, PA 15201, USA",,OPERATIONAL,Lawrenceville
+The Parlor Dim Sum,4.4,415,"4401 Butler St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+Oishii Donburi,4.7,381,"5227 Butler St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+Stinky's Bar & Grill,4.4,916,"4901 Hatfield St, Pittsburgh, PA 15201, USA",1.0,OPERATIONAL,Lawrenceville
+Redfin Blues,4.2,1845,"100 Waterfront Dr, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Lawrenceville
+William Penn Tavern,4.3,677,"3810 Butler St, Pittsburgh, PA 15201, USA",1.0,OPERATIONAL,Lawrenceville
+Lola's Eatery,4.4,392,"3337 Penn Ave, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+Thai Table & Kitchen,4.8,328,"472 44th St, Pittsburgh, PA 15201, USA",2.0,OPERATIONAL,Lawrenceville
+DiAnoia's Eatery,4.6,2329,"2549 Penn Ave, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Lawrenceville
+AGORA MEDITERRANEAN CUISINE,5.0,2,"4130 Butler St, Pittsburgh, PA 15201, USA",,OPERATIONAL,Lawrenceville
+Soju,4.6,518,"4923 Penn Ave, Pittsburgh, PA 15224, USA",2.0,OPERATIONAL,Lawrenceville
+Grist House Craft Brewery,4.8,739,"10 E Sherman St, Pittsburgh, PA 15209, USA",2.0,OPERATIONAL,Lawrenceville
+El Rincon Oaxaqueño,4.6,69,"3817 Butler St, Pittsburgh, PA 15201, USA",1.0,OPERATIONAL,Lawrenceville
+Kazoku Sushi @Lawrence Hall,4.3,12,"4609 Butler St Lawrence Hall, Pittsburgh, PA 15201, USA",,OPERATIONAL,Lawrenceville
+Coop De Ville,4.2,1248,"2305 Smallman St, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Strip District
+Novo Asian Food Hall,4.4,520,"1931 Smallman St, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Strip District
+Tapville Social - Pittsburgh,4.2,139,"1447 Smallman St, Pittsburgh, PA 15222, USA",,OPERATIONAL,Strip District
+Cellars Speakeasy,4.4,261,"2400 Smallman St Suite 100, Pittsburgh, PA 15222, USA",1.0,OPERATIONAL,Strip District
+Roland's Seafood Grill,4.3,3723,"1904 Penn Ave, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Strip District
+Eleven,4.6,1798,"1150 Smallman St, Pittsburgh, PA 15222, USA",4.0,OPERATIONAL,Strip District
+Luke Wholey's Wild Alaskan Grille,4.5,2073,"2106 Penn Ave, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Strip District
+Atria's - Strip District,5.0,2,"2350 Railroad St, Pittsburgh, PA 15222, USA",,OPERATIONAL,Strip District
+Juniper Grill - Strip District,4.3,6,"2350 Railroad St, Pittsburgh, PA 15222, USA",,OPERATIONAL,Strip District
+Cinderlands Warehouse,4.3,560,"2601 Smallman St, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Strip District
+Helltown Brewing - Strip District,4.5,323,"1700 Penn Ave, Pittsburgh, PA 15222, USA",,OPERATIONAL,Strip District
+Federal Galley,4.5,2577,"200 Children's Way, Pittsburgh, PA 15212, USA",2.0,OPERATIONAL,Strip District
+Little Bangkok in the Strip,4.8,1366,"1906 Penn Ave, Pittsburgh, PA 15222, USA",1.0,OPERATIONAL,Strip District
+City Winery Pittsburgh,4.3,962,"1627 Smallman St, Pittsburgh, PA 15222, USA",,OPERATIONAL,Strip District
+Preeti's Pitt LLC,4.2,468,"2701 Penn Ave, Pittsburgh, PA 15222, USA",,OPERATIONAL,Strip District
+Mola,4.0,27,"1931 Smallman St, Pittsburgh, PA 15222, USA",,OPERATIONAL,Strip District
+Wigle Whiskey Distillery,4.6,571,"2401 Smallman St, Pittsburgh, PA 15222, USA",,OPERATIONAL,Strip District
+PaPa J's Twin Plaza,4.4,420,"2016 Smallman St, Pittsburgh, PA 15222, USA",3.0,OPERATIONAL,Strip District
+Primanti Bros. Restaurant and Bar,4.5,7363,"46 18th St, Pittsburgh, PA 15222, USA",1.0,OPERATIONAL,Strip District
+Teocalli,4.8,64,"1831 E Carson St, Pittsburgh, PA 15203, USA",,OPERATIONAL,Strip District
+Iron Born Pizza & Pasta | Strip District,4.5,993,"1806 Smallman St, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Strip District
+Kelly O's Diner in the Strip,4.6,3006,"100 24th St, Pittsburgh, PA 15222, USA",1.0,OPERATIONAL,Strip District
+Sea Monkey,4.0,52,"2305 Smallman St, Pittsburgh, PA 15222, USA",,OPERATIONAL,Strip District
+The Smash Shack,4.8,133,"401 E Ohio St, Pittsburgh, PA 15212, USA",,OPERATIONAL,Strip District
+Shorty's Pins x Pints,4.0,487,"353 North Shore Drive, Pittsburgh, PA 15212, USA",2.0,OPERATIONAL,Strip District
+Pamela's Diner,4.7,3235,"60 21st St, Pittsburgh, PA 15222, USA",1.0,OPERATIONAL,Strip District
+Mullaney's Harp & Fiddle Irish Pub,4.5,776,"2329 Penn Ave, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Strip District
+The Woods House,4.6,302,"4604 Monongahela St, Pittsburgh, PA 15207, USA",2.0,OPERATIONAL,Strip District
+Local Provisions,4.5,116,"1111 Freeport Rd, Pittsburgh, PA 15238, USA",,OPERATIONAL,Strip District
+Sandbox VR,5.0,5004,"1681 Smallman St, Pittsburgh, PA 15222, USA",,OPERATIONAL,Strip District
+Siempre Algo,4.7,312,"414 E Ohio St, Pittsburgh, PA 15212, USA",,OPERATIONAL,Strip District
+Layali Cafe & Restaurant,4.7,385,"2533 Penn Ave, Pittsburgh, PA 15222, USA",2.0,OPERATIONAL,Strip District
+Strip District Terminal,4.6,994,"2101 Smallman St, Pittsburgh, PA 15222, USA",,OPERATIONAL,Strip District
+Aslin Beer Company,4.0,354,"1801 Smallman St, Pittsburgh, PA 15222, USA",,OPERATIONAL,Strip District
+Casa del Tequila Fine Eatery,4.9,103,"1731 Murray Ave, Pittsburgh, PA 15217, USA",,OPERATIONAL,Squirrel Hill
+Silk Elephant,4.2,638,"1712 Murray Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Chengdu Gourmet（Squirrel Hill),4.4,971,"5840 Forward Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Squirrel Hill Cafe,4.5,533,"5802 Forbes Ave, Pittsburgh, PA 15217, USA",1.0,OPERATIONAL,Squirrel Hill
+Taiwanese Bistro Cafe 33,4.5,1414,"1711 Shady Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Sichuan Gourmet,4.0,730,"1900 Murray Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Aladdin's Eatery Squirrel Hill,4.5,890,"5878 Forbes Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Hemlock House,4.6,250,"1126 S Braddock Ave, Swissvale, PA 15218, USA",,OPERATIONAL,Squirrel Hill
+Hokkaido Seafood Buffet,3.7,3012,"4612 Browns Hill Rd, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Everyday Noodles,4.6,2213,"5875 Forbes Ave, Pittsburgh, PA 15217, USA",1.0,OPERATIONAL,Squirrel Hill
+Mineo's Pizza House,4.5,2965,"2128 Murray Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Amazing Dumplings,4.5,223,"5882 Forbes Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Upstreet Diner,4.4,272,"1711 Murray Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Kiin Lao & Thai Eatery,4.3,432,"5846 Forbes Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Napoli Pizzeria,4.3,642,"2006 Murray Ave, Pittsburgh, PA 15217, USA",1.0,OPERATIONAL,Squirrel Hill
+Chow's Kitchen,4.6,69,"5829 Forbes Ave, Pittsburgh, PA 15217, USA",,OPERATIONAL,Squirrel Hill
+Tasty Noodle 西安面馆,4.6,57,"5824 Forbes Ave Lower Level, Pittsburgh, PA 15217, USA",,OPERATIONAL,Squirrel Hill
+Hidden Harbor,4.6,763,"1708 Shady Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Bangkok Balcony,4.2,379,"5846 Forbes Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Thai Cottage,4.6,728,"1109 S Braddock Ave, Pittsburgh, PA 15218, USA",2.0,OPERATIONAL,Squirrel Hill
+Viet Nom Nom,4.5,155,"1715 Murray Ave, Pittsburgh, PA 15217, USA",1.0,OPERATIONAL,Squirrel Hill
+Fresh Garden Kitchen-鑫福源,4.0,64,"2209 Murray Ave, Pittsburgh, PA 15217, USA",,OPERATIONAL,Squirrel Hill
+Took Took 98 | Thai Street Food Restaurant,4.3,343,"2018 Murray Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Waffallonia,4.6,603,"1709 Murray Ave, Pittsburgh, PA 15217, USA",1.0,OPERATIONAL,Squirrel Hill
+diners 2+1,4.6,304,"1722 Murray Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Thai Tapas And Wine Bar,5.0,1,"1712 Murray Ave, Pittsburgh, PA 15217, USA",,OPERATIONAL,Squirrel Hill
+GREEN PEPPER,4.2,467,"2020 Murray Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Turkish Kebab House,4.5,1033,"5819 Forbes Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Thai & Noodle Outlet,4.5,423,"5813 Forbes Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Ramen Bar,4.5,1906,"5860 Forbes Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+How Lee | Chinese Restaurant,3.9,701,"5888 Forbes Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Dobrá Tea Pittsburgh,4.7,1104,"1937 Murray Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+The Mediterranean Grill,4.6,315,"5835 Forbes Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+"Pastoli's Pizza, Pasta & Paisans",4.4,534,"1900 Murray Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Stuntpig,4.9,173,"1707 Murray Ave, Pittsburgh, PA 15217, USA",,OPERATIONAL,Squirrel Hill
+New Dumpling & Sushi House,4.2,343,"2138 Murray Ave, Pittsburgh, PA 15217, USA",1.0,OPERATIONAL,Squirrel Hill
+Yukiyama | Japanese Restaurant,4.2,190,"2121 Murray Ave, Pittsburgh, PA 15217, USA",1.0,OPERATIONAL,Squirrel Hill
+Tan Lac Vien Vietnamese Bistro,4.4,499,"2114 Murray Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+T-Swirl Crepe,4.6,379,"1714 Murray Ave, Pittsburgh, PA 15217, USA",1.0,OPERATIONAL,Squirrel Hill
+Aiello's Pizza Squirrel Hill,4.4,1434,"2112 Murray Ave # 1, Pittsburgh, PA 15217, USA",1.0,OPERATIONAL,Squirrel Hill
+Yue Bai Wei 悅百味,4.1,171,"5874 Forbes Ave, Pittsburgh, PA 15217, USA",2.0,OPERATIONAL,Squirrel Hill
+Bosphorus Mediterranean Cuisine,4.6,983,"7600 Forbes Ave, Pittsburgh, PA 15221, USA",2.0,OPERATIONAL,Squirrel Hill
+Frick Park Tavern,4.5,226,"1100 S Braddock Ave, Swissvale, PA 15218, USA",,OPERATIONAL,Squirrel Hill
+98K Halal Fried Chicken & Sandwiches,4.5,296,"5867 Forbes Ave, Pittsburgh, PA 15217, USA",1.0,OPERATIONAL,Squirrel Hill
+Maya Sushi,4.6,230,"2103 Murray Ave, Pittsburgh, PA 15217, USA",1.0,OPERATIONAL,Squirrel Hill
+Cafe Du Jour,4.8,260,"1107 E Carson St, Pittsburgh, PA 15203, USA",,OPERATIONAL,South Side
+Carmella's Plates & Pints,4.6,1041,"1908 E Carson St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,South Side
+Fat Head's Saloon,4.5,3151,"1805 E Carson St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,South Side
+The Urban Tap - Southside,4.4,1157,"1209 E Carson St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,South Side
+Cold Friends Kitchen,4.9,123,"2120 Jane St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,South Side
+Streets,4.6,470,"1120 E Carson St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,South Side
+Sushi Tomo South Side,4.8,57,"2122 E Carson St, Pittsburgh, PA 15203, USA",,OPERATIONAL,South Side
+HISTORIC BEDFORD HOUSE PGH,4.9,54,"51 S 12th St, Pittsburgh, PA 15203, USA",,OPERATIONAL,South Side
+Twelve Whiskey Barbecue,4.1,642,"1222 E Carson St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,South Side
+Dish Osteria Bar,4.9,652,"128 S 17th St, Pittsburgh, PA 15203, USA",3.0,OPERATIONAL,South Side
+La Palapa,4.5,1228,"2224 E Carson St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,South Side
+The Factory South Shore,4.1,138,"300 W Station Square Dr, Pittsburgh, PA 15219, USA",,OPERATIONAL,South Side
+Thai Me Up,4.5,915,"118 S 23rd St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,South Side
+La Bodega,4.2,309,"1502 E Carson St #189, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,South Side
+Piper's Pub,4.7,1749,"1828 E Carson St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,South Side
+Birmingham Bridge Tavern,4.6,761,"2901 Sarah St, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,South Side
+Dive Bar & Grille (South Side),4.4,772,"2132 E Carson St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,South Side
+Steel Mill Saloon,4.4,650,"1225 Grandview Ave, Pittsburgh, PA 15211, USA",2.0,OPERATIONAL,South Side
+Over The Bar Bicycle Cafe,4.5,982,"2518 E Carson St, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,South Side
+LA Dolce Vita,4.4,43,"2104 PA-837, Pittsburgh, PA 15203, USA",,OPERATIONAL,South Side
+Doce Taqueria,4.5,924,"1302 E Carson St, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,South Side
+Carson Street Deli & Craft Beer Bar,4.6,577,"1507 E Carson St, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,South Side
+Tupelo Honey Southern Kitchen & Bar,4.2,1525,"111 W Station Square Dr, Pittsburgh, PA 15219, USA",2.0,OPERATIONAL,South Side
+The Speckled Egg SSW,4.3,215,"428 S 27th St, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,South Side
+The Zenith,4.7,462,"86 S 26th St, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,South Side
+Mario's South Side Saloon,4.1,960,"1514 E Carson St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,South Side
+Cambod-Ican Kitchen Restaurant,4.6,815,"1701 E Carson St, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,South Side
+Kassab's Lebanese Cuisine,4.6,461,"1207 E Carson St, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,South Side
+Slice on Broadway-Southside Works,4.5,161,"2717 Sidney St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,South Side
+Dancing Crab Thai Noodle House,4.4,514,"2126 E Carson St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,South Side
+"Waffles, INCaffeinated, South Side",4.2,1443,"2517 E Carson St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,South Side
+Cucina Vitale,4.6,478,"661 Andersen Dr #100, Pittsburgh, PA 15220, USA",2.0,OPERATIONAL,South Side
+Smokin' Joe's Saloon,4.4,714,"2001 E Carson St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,South Side
+Capo's,4.1,503,"1401 E Carson St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,South Side
+Ruggers Pub,4.7,658,"40 S 22nd St, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,South Side
+Benny Fierro's,4.7,1236,"1906 E Carson St, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,South Side
+Primanti Bros. Restaurant and Bar,4.2,1388,"1832 E Carson St, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,South Side
+Cilantro & Ajo South Side,4.6,920,"901 E Carson St, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,South Side
+Kura Revolving Sushi Bar,4.3,1184,"415 Cinema Dr, Pittsburgh, PA 15203, USA",,OPERATIONAL,South Side
+Layne's Chicken Fingers - Pittsburgh,4.7,200,"1210 E Carson St, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,South Side
+SouthSide Works,4.3,3022,"424 S 27th St Suite 300, Pittsburgh, PA 15203, USA",,OPERATIONAL,South Side
+South Side BBQ Company,4.0,407,"75 S 17th St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,South Side
+Mike & Tony's Gyros,4.5,1319,"1414 E Carson St, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,South Side
+Moodz Co.,4.4,221,"2210 E Carson St, Pittsburgh, PA 15203, USA",2.0,OPERATIONAL,South Side
+Tasty Taquitos,4.2,92,"437 S 27th St, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,South Side
+Lins Asian Fusion,4.4,590,"2018 E Carson St, Pittsburgh, PA 15203, USA",1.0,OPERATIONAL,South Side
+Wings Over Pittsburgh - Carson St,4.7,340,"2002 E Carson St, Pittsburgh, PA 15203, USA",,OPERATIONAL,South Side
+Shiloh Gastro,4.4,1300,"123 Shiloh St, Pittsburgh, PA 15211, USA",2.0,OPERATIONAL,Mount Washington
+Coughlin's Law Kitchen and Ale House,4.4,1526,"10 Virginia Ave, Pittsburgh, PA 15211, USA",2.0,OPERATIONAL,Mount Washington
+Shiloh Plate & Pour,4.8,116,"201 Shiloh St, Pittsburgh, PA 15211, USA",,OPERATIONAL,Mount Washington
+Bigham Tavern,4.5,1983,"321 Bigham St, Pittsburgh, PA 15211, USA",2.0,OPERATIONAL,Mount Washington
+The Summit,4.7,599,"200 Shiloh St, Pittsburgh, PA 15211, USA",2.0,OPERATIONAL,Mount Washington
+Le Mont Restaurant,4.3,1970,"1114 Grandview Ave, Pittsburgh, PA 15211, USA",4.0,OPERATIONAL,Mount Washington
+Monterey Bay Fish Grotto,4.7,2839,"1411 Grandview Ave, Pittsburgh, PA 15211, USA",4.0,OPERATIONAL,Mount Washington
+Gordo's Tacos & Tequila,4.4,521,"131 Shiloh St, Pittsburgh, PA 15211, USA",2.0,OPERATIONAL,Mount Washington
+The Grandview Saloon,3.9,1030,"1212 Grandview Ave, Pittsburgh, PA 15211, USA",2.0,OPERATIONAL,Mount Washington
+La Tavola Italiana Restaurant,4.5,515,"1 Boggs Ave, Pittsburgh, PA 15211, USA",2.0,OPERATIONAL,Mount Washington
+Alla Famiglia,4.7,1449,"804 E Warrington Ave, Pittsburgh, PA 15210, USA",4.0,OPERATIONAL,Mount Washington
+Grand Concourse,4.2,3206,"100 W Station Square Dr, Pittsburgh, PA 15219, USA",3.0,OPERATIONAL,Mount Washington
+Cafe Nikos,4.6,224,"212 Shiloh St, Pittsburgh, PA 15211, USA",1.0,OPERATIONAL,Mount Washington
+OTARU Japanese Restaurant Pittsburgh,4.7,466,"1200 Grandview Ave, Pittsburgh, PA 15211, USA",,OPERATIONAL,Mount Washington
+The Foundry | Table & Tap,4.1,922,"381 North Shore Drive, Pittsburgh, PA 15212, USA",2.0,OPERATIONAL,Mount Washington
+J & J's Family Restaurant & Catering,4.6,853,"300 Shiloh St, Pittsburgh, PA 15211, USA",1.0,OPERATIONAL,Mount Washington
+The Getaway Bar & Grill,4.3,537,"3049 Sussex Ave, Pittsburgh, PA 15226, USA",2.0,OPERATIONAL,Mount Washington
+Willow Station Restaurant and Bar,4.7,311,"3841 Willow Ave, Pittsburgh, PA 15234, USA",2.0,OPERATIONAL,Mount Washington
+Bistro 19,4.6,515,"711 Washington Rd, Pittsburgh, PA 15228, USA",2.0,OPERATIONAL,Mount Washington
+Burgatory,4.5,4316,"342 North Shore Drive, Pittsburgh, PA 15212, USA",2.0,OPERATIONAL,Mount Washington
+Eggs & Moore,4.7,359,"221 Shiloh St, Pittsburgh, PA 15211, USA",1.0,OPERATIONAL,Mount Washington
+The Alcove,4.4,350,"875 Greentree Rd Building 7 suite 110, Pittsburgh, PA 15220, USA",1.0,OPERATIONAL,Mount Washington
+KAVSAR RESTAURANT,4.4,786,"16 Southern Ave, Pittsburgh, PA 15211, USA",2.0,OPERATIONAL,Mount Washington
+Tom's Watch Bar - Pittsburgh,4.9,3486,"261 North Shore Drive Suite 3, Pittsburgh, PA 15212, USA",,OPERATIONAL,Mount Washington
+Sesame Garden,4.2,381,"202 Shiloh St, Pittsburgh, PA 15211, USA",2.0,OPERATIONAL,Mount Washington
+Melting Pot,4.5,2251,"242 W Station Square Dr, Pittsburgh, PA 15219, USA",3.0,OPERATIONAL,Mount Washington
+Brick and Barrel Cross Keys,4.5,555,"599 Dorseyville Rd, Pittsburgh, PA 15238, USA",2.0,OPERATIONAL,Mount Washington
+Southern Tier Brewery Pittsburgh,4.6,2636,"316 North Shore Drive, Pittsburgh, PA 15212, USA",2.0,OPERATIONAL,Mount Washington
