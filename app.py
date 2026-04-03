@@ -102,29 +102,15 @@ st.header("🎯 Business Insights for Restaurant Tech Platforms")
 st.markdown("*Supporting acquisition targeting and customer retention "
             "strategies for restaurant technology companies*")
 
-col1, col2 = st.columns(2)
-
-with col1:
-    st.subheader("🔴 At-Risk Restaurants — Retention Priority")
-    st.markdown("These restaurants show declining health signals — "
-                "**high churn risk** for any restaurant technology platform. "
-                "Ideal candidates for proactive outreach and support.")
-    at_risk = df[
-        df["health_category"].isin(["At Risk","Critical"])
-    ][["name","neighborhood","health_score","recency_score","rating"]]\
-    .sort_values("health_score").head(10)
-    st.dataframe(at_risk, hide_index=True, use_container_width=True)
-
-with col2:
-    st.subheader("🟢 Thriving Restaurants — Acquisition Priority")
-    st.markdown("Healthy, active, and growing restaurants — "
-                "**prime acquisition targets** for restaurant technology platforms "
-                "seeking stable, expansion-minded customers.")
-    thriving = df[
-        df["health_category"] == "Thriving"
-    ][["name","neighborhood","health_score","recency_score","rating"]]\
-    .sort_values("health_score", ascending=False).head(10)
-    st.dataframe(thriving, hide_index=True, use_container_width=True)
+st.subheader("🟢 Thriving Restaurants — Acquisition Priority")
+st.markdown("Healthy, active, and growing restaurants — "
+            "**prime acquisition targets** for restaurant technology platforms "
+            "seeking stable, expansion-minded customers.")
+thriving = df[
+    df["health_category"] == "Thriving"
+][["name","neighborhood","health_score","recency_score","rating"]]\
+.sort_values("health_score", ascending=False).head(10)
+st.dataframe(thriving, hide_index=True, use_container_width=True)
 
 st.divider()
 st.subheader("📍 Neighborhood Opportunity Map")
